@@ -1,1 +1,1 @@
-# 2024_deep_gen_models_hometasks
+### Глубокие генеративные модели (Deep generative models)

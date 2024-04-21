@@ -1,5 +1,7 @@
 Домашнее задание № 4. Обучение Stable diffusion 1.5 методом Dreambooth.
 
+Смотри в ноутбуке hw4.ipynb или по ссылке: https://colab.research.google.com/drive/12IVXk17r1eS5m_ehCQcD9O9sBnjJtlfJ?usp=sharing
+
 Было собрано 20 фото Канье Веста и приведено к необходимому формату. 
 Ознакомиться с фото можно по ссылке: https://drive.google.com/drive/folders/1nfixT_EdbdTltFUPsTyFpawdBF4qSQf3?usp=sharing
 

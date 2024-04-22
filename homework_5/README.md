@@ -1,4 +1,4 @@
-З 5. Обучение поющей speech-to-speech модели so-VITS-svc
+ДЗ 5. Обучение поющей speech-to-speech модели so-VITS-svc
 
 В качестве исполнителя, на треках которого обучалась модель, была выбрана Lana Del Rey, для обучения было выбрано 6 ее треков:
 
@@ -11,4 +11,4 @@
 
 Для переозвучивания был выбран трек Harry Styles - Watermelon Sugar: https://www.youtube.com/watch?v=E07s5ZYygMg&ab_channel=HarryStylesVEVO
 
-Результат переозвучивания (Lana Del Rey поет Watermelon Sugar):
+Результат переозвучивания (Lana Del Rey поет Watermelon Sugar): https://drive.google.com/file/d/1rSLYrb7r1eGilosoi4CIlEPgotQgbaw8/view?usp=sharing
